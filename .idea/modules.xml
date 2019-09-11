@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/comatguiguidea/comatguiguidea.iml" filepath="$PROJECT_DIR$/comatguiguidea/comatguiguidea.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_git.iml" filepath="$PROJECT_DIR$/try_git.iml" />
     </modules>
   </component>
